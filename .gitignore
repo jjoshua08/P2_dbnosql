@@ -1,0 +1,32 @@
+.venv/
+venv/
+env/
+
+#Dependências
+node_modules/
+
+#build
+dis/
+build/
+
+#Arquivos temporários
+temp/
+tmp/
+
+#Testes
+coverage/
+
+#Sistema
+.DS_Store/
+.idea/
+
+#Cache python
+*.pyc
+
+#outros
+.vscode/
+
+#logs
+*.log
+
+#Organizando novo arquivos
